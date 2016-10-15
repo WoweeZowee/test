@@ -9,7 +9,7 @@ void setup()
   CoDrone.AutoConnect(NearbyDrone);
   CoDrone.DroneModeChange(Flight);
 }
-
+// jkhgkjhgjhgjhgjhgjhg
 void loop()
 {
   byte bt1 = digitalRead(11);
